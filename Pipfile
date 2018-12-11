@@ -14,7 +14,6 @@ roman = "*"
 tinydb = "*"
 thinc = "*"
 numpy = "==1.13.3"
-"5c32397" = {path = "./en_core_web_sm.tar.gz"}
 
 [dev-packages]
 pylint = "*"
